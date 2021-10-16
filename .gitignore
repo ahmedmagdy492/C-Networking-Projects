@@ -1,4 +1,4 @@
 list-adapters-win/
-./list-adapters/main
-./server-tool/main
-./what-is-my-public-ip-address/main
+list-adapters/main
+server-tool/main
+what-is-my-public-ip-address/main
